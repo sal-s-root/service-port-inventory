@@ -1,0 +1,12 @@
+{
+  "conflicts": [
+    {
+      "protocol": "tcp",
+      "port": 8080,
+      "services": [
+        "admin",
+        "api"
+      ]
+    }
+  ]
+}
